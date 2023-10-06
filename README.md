@@ -2,11 +2,12 @@
 
 **`DataScience-Ai-Ml Ai Data-Labeling Software Developer/Engineer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. 
+I'm an indie python developer and software lead building my version of the digital world one step at a time. 
 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
-All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I believe technology and coding is the most vital innovataion of our modern times and I wish all people, regardless of their background can and should
+jump onboard this fruitful, impactful and exciting evolution and advancement of software and technology.
 
 <!--
    <p align="left">
@@ -71,7 +72,14 @@ All video content is built the same way, from ideation and planning, all the way
 
 <details>
  <summary><h3>👨‍💻 Frederick's Software Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+I started my journey as a naive computer enthusiast, initially using computers just for gaming and havning fun. At around 2018, a friend introduced me to the concept of coding, when he showed me a website he had built, and that ignited the software development knowledge curiosity in me. Im now burning with the passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app.
+   
+Through persuation and constant learning in the software field, I just had the pride of being appointed as the google developer lead on my campus Ghana Communication Technology University, I believe I just reached a minor milestone and decided to always treasure such events in life.
+
+Now I've already taken the leap away from that my safety net into this uncomfortable, unexplored world that it being a a leader, public speaker and also a content creator. 
+And Im looking forward to an educative, impactful and exciting journey.
+
+And to anyone out there, if you are getting thoughts of getting into the software world, Don't wait up, because tech is moving fast.
 
 [website]: https://thefrederick.org
 [youtube]: https://youtube.com/tfckorg
