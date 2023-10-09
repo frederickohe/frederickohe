@@ -2,12 +2,13 @@
 
 **`DataScience-Ai-Ml Ai Data-Labeling Software Developer/Engineer`**
 
-I'm an indie python developer and software lead building my version of the digital world one step at a time. 
+With a dynamic background spanning over 2 years in AI data creation and a proven track record as a versatile software developer, I bring a wealth of experience to the table.
 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+Beyond my AI endeavors, I also had the privilege of serving as a front-end developer for a church organization. This role allowed me to apply my technical expertise to meaningful projects, helping to enhance the digital presence and engagement of the organization.
 
-I believe technology and coding is the most vital innovataion of our modern times and I wish all people, regardless of their background can and should
-jump onboard this fruitful, impactful and exciting evolution and advancement of software and technology.
+My journey as a software developer has been a diverse one, encompassing a wide range of projects in frontend, backend, mobile apps, desktop applications, and APIs. I thrive on tackling complex challenges and crafting elegant solutions that make a real impact.
+
+I'm passionate about staying at the forefront of technology, continually expanding my skill set, and collaborating with like-minded individuals and teams to drive innovation. Let's connect and explore how we can work together to create the next generation of transformative software solutions."
 
 <!--
    <p align="left">
