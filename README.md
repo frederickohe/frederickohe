@@ -2,13 +2,12 @@
 
 **`DataScience-Ai-Ml Ai Data-Labeling Software Developer/Engineer`**
 
-With a dynamic background spanning over 2 years in AI data creation and a proven track record as a versatile software developer, I bring a wealth of experience to the table.
+The name is Frederick Ohene, a software engineer with a diverse skill set including frontend development, backend development, Linux VM machines and Servers, Database development and AI/ML.
+With a solid foundation in these areas, I enjoy building robust and scalable solutions to solve real-world problems.
 
-Beyond my AI endeavors, I also had the privilege of serving as a front-end developer for a church organization. This role allowed me to apply my technical expertise to meaningful projects, helping to enhance the digital presence and engagement of the organization.
+I'm passionate about staying at the forefront of technology, continually expanding my skill set, and collaborating with like-minded individuals and teams to drive innovation.
 
-My journey as a software developer has been a diverse one, encompassing a wide range of projects in frontend, backend, mobile apps, desktop applications, and APIs. I thrive on tackling complex challenges and crafting elegant solutions that make a real impact.
-
-I'm passionate about staying at the forefront of technology, continually expanding my skill set, and collaborating with like-minded individuals and teams to drive innovation. Let's connect and explore how we can work together to create the next generation of transformative software solutions."
+I believe we can all thrive on learning new technologies and collaborating on innovative projects. Let's build something amazing together!
 
 <!--
    <p align="left">
